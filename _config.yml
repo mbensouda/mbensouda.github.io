@@ -20,12 +20,12 @@ author:
   # Used by `jekyll-feed`:
   name:                Meriem Bensouda Koraichi
   email:               meriem.bensoudakoraichi@gmail.com
-  # picture:             foto_1.png
+  # picture:             foto_1
   social:
-    github:            giulioisac
-    email:             giulioisac@gmail.com
-    twitter:           giulioisacchini
-#    linkedin:          giulio-isacchini-a71662144
+    github:            mbensouda
+    email:             meriem.bensoudakoraichi@gmail.com
+    twitter:           BensoudaMeriem
+    linkedin:          meriem-bensouda-ph-d-b5a85ba9
 accent_image:          background1.png
 accent_color:          rgb(31,33,36)    
 menu:
