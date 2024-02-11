@@ -1,5 +1,5 @@
 
-title: Giulio Isacchini
+title: Meriem Bensouda Koraichi
 logo: foto_1.png
 remote_theme: hydecorp/hydejack@v9.1.5
 plugins:
@@ -18,8 +18,8 @@ plugins:
   - jemoji
 author:
   # Used by `jekyll-feed`:
-  name:                Giulio Isacchini
-  email:               giulioisac@gmail.com
+  name:                Meriem Bensouda Koraichi
+  email:               meriem.bensoudakoraichi@gmail.com
   # picture:             foto_1.png
   social:
     github:            giulioisac
