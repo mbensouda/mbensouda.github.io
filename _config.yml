@@ -39,7 +39,7 @@ menu:
 #copyright:             © 2021. All rights reserved.
 google_fonts:          Noto+Sans+KR|JetBrains+Mono|Nanum+Gothic+Coding
 tagline:               >
-  Researcher, (Deep) Learning Biological Function
+  Computational biologist with a background in statistical physics and adaptive immunology, deep learning, variational inference, single-cell omics and cell fate. 
 jekyll_compose:
   default_front_matter:
     drafts:
