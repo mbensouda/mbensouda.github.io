@@ -4,7 +4,19 @@ title: CV
 ---
 
 ## Education
-* 2022-Now: **Postdoc in Biophysics**, at University of California, Berkeley, and Univeristy of Leipzig. The objective of my research is to characterize how the evolution of bacteria and viruses leads to immune evasion. I develop unsupervised learning methods to describe the evolutionary trajectories of evolving pathogens and predict the spread of these pathogens in a structured population.
+* 2022-Now: **Machine Learning Scientist**, at Altos Labs, Redwood City, CA.
+ 􏰁 Project Leadership: Spearheaded a top-tier AI project focusing on deciphering cell state trajectories
+using a composite of advanced ML models including mechanistic modeling, variational autoencoders,
+neural ordinary differential equations, optimal transport, and probabilistic inference.
+􏰁 Spatial Transcriptomics: Developed innovative methods to quantify cellular neighborhood transitions
+utilizing spatial transcriptomics coupled with single-cell RNA sequencing (scRNA-seq).
+􏰁 Predictive Modeling: Enhanced HLA-epitope binding prediction accuracy using advanced computational
+tools, contributing to robust immunological insights.
+􏰁 Single-cell Genomics: Established best practices for scRNA-seq analysis covering the entire pipeline from
+FASTQ to H5AD files, incorporating tools like scVI, scGPT for integration, differential gene expression,
+dimensionality reduction, cell type annotation, trajectory inference, and RNA velocity.
+􏰁 Multi-omics Proficiency: Gained proficiency in bulk RNA-seq, single-cell ATAC sequencing (scATAC),
+MERFISH, and proteomics, broadening the scope of research capabilities.
   * Head of laboratory: Oskar Hallatsheck
 
 * 2018–2021: **PhD in Machine learning of immune repertoire interactions**, jointly between Max Planck Institute for Dynamics and Self-Organization, Goettingen, and École Normale Superiéure, Paris. T and B cells rely on the diversity of their receptor sequences for antigen recognition. Biophysical models for the recombination of receptor chains have shown to well capture the statistics of the repertoire before selection. However, this diversity is subsequently reduced by thymic selection, which is not yet well characterized. In my PhD research project I applied a maximum likelihood approach to density ratio estimation to infer selection factors using deep neural network models and found that these non linear selection models accurately describe the distribution of immune receptors. I studied the differentiation pathways of T cells during thymic development and showed that T cell subtypes have significantly different repertoires both at the global and local level.
