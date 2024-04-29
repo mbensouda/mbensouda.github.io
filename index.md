@@ -3,6 +3,8 @@ title:
 Welcome to my personal webpage!
 ---
 
+## Research
+
 I am a deeply committed researcher in AI for biology, dedicated to bridging fundamental research with practical applications in biotechnology. Throughout my career, I have placed great emphasis on **first understanding the data deeply**, investing countless hours in deciphering the hidden noise in sequencing to extract subtle yet significant signals. In the realm of biological data, I prioritize spending time to thoroughly comprehend the system described by the data and the processes of its generation. This allows me to accurately identify different noise sources, detect patterns, and consider more sophisticated models that are informed by the data itself. Such models are crucial for probing biological systems, identifying key biomarkers, or predicting phenomena that would otherwise be resource-intensive and time-consuming to explore experimentally.
 
 I am particularly drawn to challenging projects that require extensive time and iterative refinement to achieve meaningful results. My approach is team-oriented, hands-on, focused on problem-solving, and driven by outcomes. I value critical thinking and maintain a positive attitude in all my endeavors.
