@@ -1,7 +1,9 @@
 ---
 title: About
 ---
-## Hello, World!
+## Welcome to my webpage !
+
+### Research
 
 I am a deeply committed researcher in AI for biology, dedicated to bridging fundamental research with practical applications in biotechnology. Throughout my career, I have placed great emphasis on **first understanding the data deeply**, investing countless hours in deciphering the hidden noise in sequencing to extract subtle yet significant signals. In the realm of biological data, I prioritize spending time to thoroughly comprehend the system described by the data and the processes of its generation. This allows me to accurately identify different noise sources, detect patterns, and consider more sophisticated models that are informed by the data itself. Such models are crucial for probing biological systems, identifying key biomarkers, or predicting phenomena that would otherwise be resource-intensive and time-consuming to explore experimentally.
 
@@ -25,8 +27,8 @@ To validate and reinforce the knowledge I acquire, I share blog posts on this we
 You can find descriptions of my research projects [here](publications.md), along with associated publications.
 
 
-## In the News
+### In the News
 Here is an interview about my motivations from some years ago [in French](https://qbio.ens.psl.eu/newsroom/de-la-physique-la-biologie-des-statistiques-la-vulgarisation-scientifique).
 
-## Hobbies
+### Hobbies
 I am not only a researcher (!) and curiosity is my main default. I love spending time exploring new cultures, new languages, new life-styles, new hobbies to make the most of my life. 
