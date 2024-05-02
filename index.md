@@ -1,9 +1,7 @@
 ---
-title: 
-Welcome to my personal webpage!
+title: About
 ---
-
-## Research
+## Hello, World!
 
 I am a deeply committed researcher in AI for biology, dedicated to bridging fundamental research with practical applications in biotechnology. Throughout my career, I have placed great emphasis on **first understanding the data deeply**, investing countless hours in deciphering the hidden noise in sequencing to extract subtle yet significant signals. In the realm of biological data, I prioritize spending time to thoroughly comprehend the system described by the data and the processes of its generation. This allows me to accurately identify different noise sources, detect patterns, and consider more sophisticated models that are informed by the data itself. Such models are crucial for probing biological systems, identifying key biomarkers, or predicting phenomena that would otherwise be resource-intensive and time-consuming to explore experimentally.
 
@@ -22,11 +20,10 @@ In my ongoing educational journey, I continually teach myself:
 - technologies linking AI with the biotech and medtech ecosystems
 
 
-To validate and reinforce the knowledge I acquire, I share blog posts on this website aimed at democratizing science related to the **adaptive immune repertoire, cellular reprogramming, cellular rejuvenation, the challenges of developing ML models for scRNAseq analysis (including dimensionality reduction and trajectory inference analysis), and the complexities of using multiple data modalities to better understand highly complex biological systems, either through specific models or by fine-tuning already developed foundational models.
+To validate and reinforce the knowledge I acquire, I share blog posts on this website aimed at democratizing science related to the **adaptive immune repertoire**, **cellular reprogramming** and **partial reprogramming**, the challenges of developing ML models for scRNAseq analysis (including **dimensionality reduction** and **trajectory inference** analysis), and the complexities of using multiple data modalities to better understand highly complex biological systems, either through specific models or by fine-tuning already developed foundational models.
 
 You can find descriptions of my research projects [here](publications.md), along with associated publications.
 
-You can also find me on [Scholar](https://scholar.google.com/citations?user=dHG764wAAAAJ&hl=en) or [Linkedin](https://www.https://www.linkedin.com/in/meriem-bensouda-ph-d-b5a85ba9/)
 
 ## In the News
 Here is an interview about my motivations from some years ago [in French](https://qbio.ens.psl.eu/newsroom/de-la-physique-la-biologie-des-statistiques-la-vulgarisation-scientifique).
